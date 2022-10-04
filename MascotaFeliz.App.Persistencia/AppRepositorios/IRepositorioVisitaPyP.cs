@@ -1,3 +1,4 @@
+
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -13,9 +14,6 @@ namespace MascotaFeliz.App.Persistencia
         VisitaPyP UpdateVisitaPyP(VisitaPyP visitaPyP);
         void DeleteVisitaPyP(int idVisitaPyP);
         VisitaPyP GetVisitaPyP(int idVisitaPyP);
-                
         
     }
-    
-
 }

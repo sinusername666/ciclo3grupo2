@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uJe3atY4DMUjXObF+wL1bYjQItUzTFYskT61m+GWEJ4+CzNAyuHsYeOtqyQ+iXZi4jen89+DbP41GrEl6fpIzQ==",
+  "dgSpecHash": "n9ju1vZOZvBp42jduuHCtNFVabTiuRxeoU6HOmfwXKSbEi2PdNUcqcn5pfw7KB/pg2RPXFXhKn2WSZhLc8qo0w==",
   "success": true,
   "projectFilePath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj",
   "expectedPackageFiles": [
@@ -97,7 +97,8 @@
     "C:\\Users\\Usuario\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
   ],
   "logs": []
 }

@@ -12,6 +12,8 @@
     @foreach (var dueno in Model.listaDuenos)
     {
         <tr>
+            
+            
             <td>@dueno.Nombres</td>
             <td>@dueno.Apellidos</td>
         
@@ -30,4 +32,3 @@
     }
 </table>
 <a class = "btn btn-primary table-btn" asp-page="./EditarDuenos" class="btn-default">Adicionar Dueño</a>
-

@@ -11,9 +11,8 @@ namespace MascotaFeliz.App.Frontend.Pages
 {
     public class ListaMascotasModel : PageModel
     {
-        private readonly IRepositorioMascota _repoMascota;
-
-        public IEnumerable<Mascota> listaMascotas {get;set;}
+        private readonly IRepositorioMascota _repoMascota; 
+        public IEnumerable<Mascota> listaMascotas {get;set;} 
 
         public ListaMascotasModel()
         {
@@ -26,4 +25,3 @@ namespace MascotaFeliz.App.Frontend.Pages
         }
     }
 }
-

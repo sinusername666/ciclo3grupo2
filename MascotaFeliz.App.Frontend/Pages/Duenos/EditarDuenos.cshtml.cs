@@ -54,8 +54,5 @@ namespace MascotaFeliz.App.Frontend.Pages
             }
             return Page();
         }
-        
-        
-
     }
 }

@@ -1,3 +1,4 @@
+
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -13,10 +14,6 @@ namespace MascotaFeliz.App.Persistencia
         Historia UpdateHistoria(Historia historia);
         void DeleteHistoria(int idHistoria);
         Historia GetHistoria(int idHistoria);
-
-                
-        
+        IEnumerable<VisitaPyP> GetVisitasHistoria(int idHistoria);
     }
-    
-
 }
