@@ -11,3 +11,16 @@ C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard
 C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
 C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.AssemblyReference.cache
 C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb

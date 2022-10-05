@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj": {}
+    "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Consola\\MascotaFeliz.App.Consola.csproj": {
+    "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Consola\\MascotaFeliz.App.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Consola\\MascotaFeliz.App.Consola.csproj",
+        "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Consola\\MascotaFeliz.App.Consola.csproj",
         "projectName": "MascotaFeliz.App.Consola",
-        "projectPath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Consola\\MascotaFeliz.App.Consola.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Consola\\obj\\",
+        "projectPath": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Consola\\MascotaFeliz.App.Consola.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj": {
-                "projectPath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj"
+              "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj"
               },
-              "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj": {
-                "projectPath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj"
+              "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj"
               }
             }
           }
@@ -69,12 +70,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.29, 3.1.29]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -84,20 +79,20 @@
         }
       }
     },
-    "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj": {
+    "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj",
         "projectName": "MascotaFeliz.App.Dominio",
-        "projectPath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -106,6 +101,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -146,20 +142,20 @@
         }
       }
     },
-    "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj": {
+    "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj",
         "projectName": "MascotaFeliz.App.Frontend",
-        "projectPath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\",
+        "projectPath": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -168,20 +164,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Consola\\MascotaFeliz.App.Consola.csproj": {
-                "projectPath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Consola\\MascotaFeliz.App.Consola.csproj"
+              "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Consola\\MascotaFeliz.App.Consola.csproj": {
+                "projectPath": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Consola\\MascotaFeliz.App.Consola.csproj"
               },
-              "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj": {
-                "projectPath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj"
+              "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj"
               },
-              "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj": {
-                "projectPath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj"
+              "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj"
               }
             }
           }
@@ -206,12 +203,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.29, 3.1.29]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -224,20 +215,20 @@
         }
       }
     },
-    "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj": {
+    "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj",
         "projectName": "MascotaFeliz.App.Persistencia",
-        "projectPath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -246,14 +237,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj": {
-                "projectPath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj"
+              "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\crist\\OneDrive\\Documentos\\GitHub\\ciclo3grupo2\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj"
               }
             }
           }

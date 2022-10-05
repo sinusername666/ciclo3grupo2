@@ -3,20 +3,21 @@
 @{
     
 }
-<h2>Agregar o editar Mascotas</h2>
+<h2 class="logo-home">Agregar o editar Dueños</h2>
 
 <form method="post" >
     <div class="form-group">
-        <input type="hidden" asp-for = "mascota.Id" />
+    
+        <input type="hidden" class="inputform" placeholder="ID" asp-for = "mascota.Id" /><br>
         
-        <label asp-for="mascota.Nombre"></label>
-        <input asp-for="mascota.Nombre" class="form-control">
-        <label asp-for="mascota.Color"></label>
-        <input asp-for="mascota.Color" class="form-control">
-        <label asp-for="mascota.Raza"></label>
-        <input asp-for="mascota.Raza" class="form-control">
-        <label asp-for="mascota.Especie"></label>
-        <input asp-for="mascota.Especie" class="form-control">
+        
+        <input type="text" class="inputform" placeholder="Nombre" asp-for="mascota.Nombre"><br>
+       
+        <input type="text" class="inputform" placeholder="Color" asp-for="mascota.Color" ><br>
+      
+        <input type="text" class="inputform" placeholder="Raza" asp-for="mascota.Raza"><br>
+        
+        <input type="text" class="inputform" placeholder="Especie"asp-for="mascota.Especie"><br>
         
         <label for="dueno">Dueño</label>
         <select id="dueno" asp-for="mascota.Dueno.Id" name = "duenoId">

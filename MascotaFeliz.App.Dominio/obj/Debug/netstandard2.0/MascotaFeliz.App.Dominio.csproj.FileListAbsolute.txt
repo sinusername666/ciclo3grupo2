@@ -8,3 +8,13 @@ C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\M
 C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.pdb
 C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.csproj.AssemblyReference.cache
 C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Dominio\bin\Debug\netstandard2.0\MascotaFeliz.App.Dominio.deps.json
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Dominio\bin\Debug\netstandard2.0\MascotaFeliz.App.Dominio.dll
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Dominio\bin\Debug\netstandard2.0\MascotaFeliz.App.Dominio.pdb
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.dll
+C:\Users\crist\OneDrive\Documentos\GitHub\ciclo3grupo2\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.pdb
